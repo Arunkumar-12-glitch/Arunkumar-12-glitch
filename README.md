@@ -15,7 +15,7 @@ I’m **Arun Kumar**, a Software Developer and B.Tech student at **Apollo Univer
 I enjoy building software that solves real-world problems and learning modern technologies.
 
 • 🌱 Currently learning **Flutter**  
-• 👨‍💻 Interested in **AI, Web Development, and DevOps**  
+• 👨‍💻 Interested in **AI, Web Development**  
 • 🤝 Looking to collaborate on **App Development projects**  
 • 🏢 Member of **Kalvium Community**  
 • 📍 Based in **Chittoor, India**
@@ -64,29 +64,6 @@ A platform where organizers can manage tournaments and viewers can track matches
 
 ---
 
-### 💻 AI Web Assistant
-A web assistant that helps automate responses and provide intelligent suggestions.
-
-**Tech Stack**
-- React
-- Node.js
-- OpenAI APIs
-
-🔗 Repo: `ADD LINK`
-
----
-
-### 📊 DevOps CI/CD Demo
-A sample project showing automated deployment using modern DevOps pipelines.
-
-**Tech Stack**
-- Docker
-- GitHub Actions
-- Vercel
-
-🔗 Repo: `ADD LINK`
-
----
 
 # 📊 GitHub Stats
 
@@ -114,9 +91,9 @@ A sample project showing automated deployment using modern DevOps pipelines.
 
 # 🤝 Connect With Me
 
-📧 Email: `your-email@example.com`  
+📧 Email: `arunkumar227264@gmail.com`  
 🌐 Portfolio: `Add Portfolio Link`  
-💼 LinkedIn: `Add LinkedIn Link`  
+💼 LinkedIn: `https://www.linkedin.com/in/arun-kumar-palleni/`  
 🐦 Twitter / X: `Add Twitter Link`
 
 ---
